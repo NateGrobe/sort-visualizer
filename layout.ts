@@ -1,5 +1,3 @@
-// TODO: add css to the elements
-
 const root: HTMLElement = document.getElementById('root');
 
 // radio buttons
